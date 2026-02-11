@@ -16,7 +16,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ **All about me is at [My Website])** – Explore my projects, blogs, and everything I do.
+- 🙋‍♂️ **All about me is at ([My Website])** – Explore my projects, blogs, and everything I do.
 - 🔭 Currently, I’m learning **Java**, **Web Development**, and **DSA Basics**.
 - 🌱 I’m exploring **AI/ML**, and growing my knowledge every day.
 - 👯 I’m open to collaborating on **beginner-friendly projects** and learning together.
